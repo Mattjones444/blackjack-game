@@ -44,7 +44,7 @@ This is a simple browser-based Blackjack game built using **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![Game Screenshot](./images/image.jpg)
+![Game Screenshot](./images/readmeshot.png)
 
 ## 👤 Author
 
