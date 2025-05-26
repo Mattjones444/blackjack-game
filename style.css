@@ -6,6 +6,7 @@ body{
     text-align:center;
     color:#fff;
     font-weight:bold;
+    
 
  
 }
@@ -18,7 +19,9 @@ h1{
     font-style:italic;
 }
 
-.start-game{
+
+
+button{
     color:#016f32;
     width:150px;
     background-color:goldenrod;
@@ -28,3 +31,4 @@ h1{
     border: none;
     border-radius:2px;
 }
+
